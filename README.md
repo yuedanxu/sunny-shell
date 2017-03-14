@@ -1,2 +1,4 @@
-# sunny-shell
-first
+### sunny-shell
+
+- Hello Shell.
+- variable.
